@@ -1,0 +1,7 @@
+C:\Users\507\Documents\Code\Completed Projects\Solutions\The Veil\bin\Release\The Veil.exe.config
+C:\Users\507\Documents\Code\Completed Projects\Solutions\The Veil\bin\Release\The Veil.exe
+C:\Users\507\Documents\Code\Completed Projects\Solutions\The Veil\bin\Release\The Veil.pdb
+C:\Users\507\Documents\Code\Completed Projects\Solutions\The Veil\obj\Release\The Veil.csproj.CoreCompileInputs.cache
+C:\Users\507\Documents\Code\Completed Projects\Solutions\The Veil\obj\Release\The Veil.exe
+C:\Users\507\Documents\Code\Completed Projects\Solutions\The Veil\obj\Release\The Veil.pdb
+C:\Users\507\Documents\Code\Completed Projects\Solutions\The Veil\obj\Release\The Veil.csprojAssemblyReference.cache

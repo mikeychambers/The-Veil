@@ -1,0 +1,14 @@
+C:\Users\507\Documents\Code\Unfinished\507'sDungeon\bin\Debug\The Veil.exe.config
+C:\Users\507\Documents\Code\Unfinished\507'sDungeon\bin\Debug\The Veil.exe
+C:\Users\507\Documents\Code\Unfinished\507'sDungeon\bin\Debug\The Veil.pdb
+C:\Users\507\Documents\Code\Unfinished\507'sDungeon\obj\Debug\The Veil.csprojAssemblyReference.cache
+C:\Users\507\Documents\Code\Unfinished\507'sDungeon\obj\Debug\The Veil.csproj.CoreCompileInputs.cache
+C:\Users\507\Documents\Code\Unfinished\507'sDungeon\obj\Debug\The Veil.exe
+C:\Users\507\Documents\Code\Unfinished\507'sDungeon\obj\Debug\The Veil.pdb
+C:\Users\507\Documents\Code\Completed Projects\Solutions\The Veil\bin\Debug\The Veil.exe.config
+C:\Users\507\Documents\Code\Completed Projects\Solutions\The Veil\bin\Debug\The Veil.exe
+C:\Users\507\Documents\Code\Completed Projects\Solutions\The Veil\bin\Debug\The Veil.pdb
+C:\Users\507\Documents\Code\Completed Projects\Solutions\The Veil\obj\Debug\The Veil.csprojAssemblyReference.cache
+C:\Users\507\Documents\Code\Completed Projects\Solutions\The Veil\obj\Debug\The Veil.csproj.CoreCompileInputs.cache
+C:\Users\507\Documents\Code\Completed Projects\Solutions\The Veil\obj\Debug\The Veil.exe
+C:\Users\507\Documents\Code\Completed Projects\Solutions\The Veil\obj\Debug\The Veil.pdb

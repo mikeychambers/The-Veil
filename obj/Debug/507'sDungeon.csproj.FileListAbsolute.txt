@@ -1,0 +1,14 @@
+C:\Users\507\OneDrive\Code\Unfinished\507'sDungeon\bin\Debug\507'sDungeon.exe.config
+C:\Users\507\OneDrive\Code\Unfinished\507'sDungeon\bin\Debug\507'sDungeon.exe
+C:\Users\507\OneDrive\Code\Unfinished\507'sDungeon\bin\Debug\507'sDungeon.pdb
+C:\Users\507\OneDrive\Code\Unfinished\507'sDungeon\obj\Debug\507'sDungeon.csprojAssemblyReference.cache
+C:\Users\507\OneDrive\Code\Unfinished\507'sDungeon\obj\Debug\507'sDungeon.csproj.CoreCompileInputs.cache
+C:\Users\507\OneDrive\Code\Unfinished\507'sDungeon\obj\Debug\507'sDungeon.exe
+C:\Users\507\OneDrive\Code\Unfinished\507'sDungeon\obj\Debug\507'sDungeon.pdb
+C:\Users\507\Documents\Code\Unfinished\507'sDungeon\bin\Debug\507'sDungeon.exe.config
+C:\Users\507\Documents\Code\Unfinished\507'sDungeon\bin\Debug\507'sDungeon.exe
+C:\Users\507\Documents\Code\Unfinished\507'sDungeon\bin\Debug\507'sDungeon.pdb
+C:\Users\507\Documents\Code\Unfinished\507'sDungeon\obj\Debug\507'sDungeon.csprojAssemblyReference.cache
+C:\Users\507\Documents\Code\Unfinished\507'sDungeon\obj\Debug\507'sDungeon.csproj.CoreCompileInputs.cache
+C:\Users\507\Documents\Code\Unfinished\507'sDungeon\obj\Debug\507'sDungeon.exe
+C:\Users\507\Documents\Code\Unfinished\507'sDungeon\obj\Debug\507'sDungeon.pdb
