@@ -5,15 +5,15 @@ namespace _507_sDungeon
     {
         readonly public static string[] introScript =
         {
-            "Are you sure its one of us? Not just one of those satanist dicks again?",
-            "The mess is to obvious, to precise, this wasn't a feed or some dumb fuck " +
+            "Are you sure its one of us? Not just one of those satanist again?",
+            "The mess is to obvious, to precise, this wasn't a feed or some dumb" +
                 "human getting there rocks\noff, this is a message left for humanity.",
             "You think someone's trying to start another war?",
             "Can you blame them? Do you not grow tired of the hiding, the sneaking around in the " +
                 "shadows, molly\ncoddling a species of imbecilic philistines. The wolf is only supposed " +
                 "to hide from the deer before\nit strikes not while it roams.",
             "Don’t start getting all nostalgic on me again. I like an easy life, with all the packs I can drink" +
-                "\nand no band of assholes trying to drive a stake through me. I like getting a good days sleep with " +
+                "\nand no band of hunters trying to drive a stake through me. I like getting a good days sleep with " +
                 "\nout worrying about some prick letting in the light. The war nights weren't all roses and virgins.",
             "I guess your right. We need to get moving before the humans get here. Phone this in while I search, " +
                 "if some one truly is trying to uncover the veil this is just the start."
@@ -25,7 +25,7 @@ namespace _507_sDungeon
             "Cain.",
             "Hahaha yeah or the devil himself right....wait, your not joking are you?",
             "Could you smell anyone when we where there? Could you feel any presence?",
-            "No it just stank of human, its one of those satanist fucks Im telling you. Its alway some grand\nconspiracy with you, you spend to much time on the human net",
+            "No it just stank of human, its one of those stanist morons Im telling you. Its alway some grand\nconspiracy with you, you spend to much time on the human net",
             "The elders have been silent for years now.",
             "That happens all the time. They'll be working on something or resting. They dissapear for decades at a time. They where gone for a century after the plauge.",
             "And when they do they always have some sycophant courier making sure we're still towing the line.\nIts been silent to silent.",
@@ -34,11 +34,11 @@ namespace _507_sDungeon
             "Hes been gone for a millenia. Why would he come back now?",
             "He loved the war, he loved the fight, he thrived on the suffering and misery regardless of the side it took place on. Look at the weapons humans have now." +
             " A war now wouldnt be against some peasents\nwith sharp sticks. It would be carnage. It would be fun.",
-            "You're just as fucking crazy as he was are'nt you. You really want a war dont you?",
+            "You're just as crazy as he was are'nt you. You really want a war dont you?",
             "Do you not get bored of immortality? How many loved ones have you lost? Enough where it no longer\npains you? " +
             "I have tried and tired of every vice imaginable. Another war would at least make things\ninteresting.",
-            "You really are fucking crazy.",
-            "Hahaha maybe, fuck it ignore me its been a shitty year."
+            "You really are crazy.",
+            "Hahaha maybe, screw it, just ignore me its been a rough year."
         };
 
         readonly public static string[] cainScript =
@@ -50,9 +50,9 @@ namespace _507_sDungeon
             "Dont throw me out, theres no darkness for miles",
             "Precisly why I choose this place and time. If you broke in to one of these buildings how long before the police dragged you out in to the open? How about those coffee" +
                 " shops over there with the big\nwindows the humans sure do love their natural light.",
-            "You sick fuck.",
+            "You sick......",
             "But I thought you tired of life. Pissants like you are not worthy of seeing this world until its\nend.",
-            "Ok, ok fuck man I dont want to cease. The pain, the anguish, the fucking boredom. I want it, all of it. I dont want it to end, since Ive been dead Ive never felt so alive.",
+            "Ok, ok I dont want to cease. The pain, the anguish, the boredom. I want it, all of it. I dont want it to end, since Ive been dead Ive never felt so alive.",
             "Give me a reason, you want war I can sense it but how you have squandered your gifts. What do you\neven know of our history?",
             "Just give me a chance!",
             "Very well."
